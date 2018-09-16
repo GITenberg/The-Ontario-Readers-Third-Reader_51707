@@ -1,0 +1,27 @@
+_repo: The-Ontario-Readers-Third-Reader_51707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ontario. Department of Education
+    aliases:
+    - Ontario. Dept. of Education
+    - Ontario. Ministere de l'education
+    - Ontario. Education Department
+    - Ontario. Ministère de l'éducation
+    gutenberg_agent_id: '7260'
+    url: http://www.gutenberg.org/2009/agents/7260
+description: ''
+gutenberg_issued: '2016-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'PE'
+- GITenberg
+title: 'The Ontario Readers: Third Reader'
+url: http://www.gutenberg.org/ebooks/51707
